@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33547303/README.1.md)
 <div align="center">
 
 # Yusuf Khambaty
@@ -55,6 +54,20 @@ flowchart LR
 - **Monetisation:** credit system gating AI use, Razorpay checkout with verified webhooks, billing dashboard.
 - **Ops:** admin dashboard with live online users, waitlist and analytics; deployed on Vercel with CI/CD from GitHub.
 
+## In development: Unfiltered
+
+*Most dating apps want your highlight reel. Unfiltered wants your real.*
+
+A dating app built around honesty instead of performance. Profiles are built through **7 layers of honest profiling**, onboarding is **personalised by gender**, compatibility comes from **MCQ-based matching**, and the swipe system is designed to **reward truth over polish**.
+
+[Source](https://github.com/yukyk/Unfiltered-Dating-App)
+
+`React` `Vite` `Tailwind CSS` `Node.js` `Supabase`
+
+- **Backend:** MVC structure (routes, controllers, models, utils) on a Node.js server.
+- **Frontend:** React + Vite single-page app styled with Tailwind.
+- **Data:** Supabase for storage and migrations.
+
 ## Other builds
 
 <table>
@@ -89,7 +102,7 @@ Production-style REST API with MVC structure, role-based access (admin/user), an
 <details open>
 <summary><b>Core</b></summary>
 
-`JavaScript (ES6+)` · `TypeScript` · `Node.js` · `Express` · `Next.js` · `React` · `Tailwind CSS`
+`JavaScript (ES6+)` · `TypeScript` · `Node.js` · `Express` · `Next.js` · `React` · `Vite` · `Tailwind CSS`
 
 </details>
 
