@@ -16,11 +16,11 @@ Full-Stack Engineer · Node.js · Next.js · TypeScript · LLM Integration
 
 ## At a glance
 
-I'm a developer based in Mumbai with 1+ year of production experience. By day I run backend and technical operations for an e-commerce business; on my own time I ship full-stack products end to end: auth, payments, AI, deployment.
+I'm a developer based in Mumbai with 1+ year of production experience. I recently wrapped up a role running backend and technical operations for an e-commerce business, and I ship full-stack products end to end: auth, payments, AI, deployment.
 
 > I like problems where code has to move a real number: hours saved, revenue gained, errors removed.
 
-## Impact in numbers
+## Impact in numbers (previous role)
 
 | Metric | Result | Where |
 |:--|:--|:--|
@@ -130,7 +130,7 @@ Production-style REST API with MVC structure, role-based access (admin/user), an
 ## Currently
 
 - Building and improving **TutorAI**
-- Automating e-commerce operations at **Tohfawala Corporate Gifts**
+- Completed my role at **Tohfawala Corporate Gifts** and now open to new opportunities
 - Looking for a backend or full-stack role where I can own features end to end
 
 ## Background
